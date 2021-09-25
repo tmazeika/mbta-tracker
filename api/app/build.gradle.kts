@@ -13,5 +13,5 @@ dependencies {
 }
 
 application {
-    mainClass.set("me.mazeika.cs4550.api.App")
+    mainClass.set("me.mazeika.mbtatracker.api.App")
 }
